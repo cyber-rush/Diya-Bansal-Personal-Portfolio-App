@@ -1,0 +1,28 @@
+.name {
+  color: #fd6f00;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.main-Profession {
+  color: #fd6f00;
+  font-weight: 900;
+  font-size: xx-large;
+  letter-spacing: 3px;
+}
+
+.hero-intro {
+  word-wrap: break-word;
+  color: #4f4f4f;
+  max-width: 30%;
+  text-align: justify;
+}
+
+.button {
+  background: #fd6f00;
+  border-radius: 4px;
+  padding: 8px 32px;
+  &:hover {
+    background: #ff8c33;
+  }
+}
